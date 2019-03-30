@@ -1,0 +1,46 @@
+.Header {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Description {
+    text-align: center;
+    margin-left: 650px;
+    margin-right: 650px;
+    color: hotpink;
+    
+}
+
+
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    height: 500px;
+    width: 500px;
+    margin-left: 665px;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+
+.header,
+.score 
+{
+    text-align: center;
+    font-size: 50px;
+    color: hotpink;
+    font-weight: bold;
+    
+}
+  
+
+
+.lukas {
+    margin-top: 3px;
+    margin-right: 3px;
+    width: 150px;
+    height: 150px;
+    border: pink 5px solid;
+   
+}
